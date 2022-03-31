@@ -10,8 +10,7 @@ This dapp is based on the official tutorial of Truffle Framework: http://truffle
 
 You need to pay attention to configure and run Ganache (for a local blockchain) and MetaMask (for a client web blockchain).
 
-
-Deployment :
+DEPLOYEMENT :
 
 git clone https://github.com/satyam-194/Defi-Staking-Dapp.git
 
