@@ -24,7 +24,7 @@ git clone https://github.com/satyam-194/Defi-Staking-Dapp.git
 
 ◉	truffle migrate --reset
 
-◉	npm run dev
+◉	npm start run
 
 
 
